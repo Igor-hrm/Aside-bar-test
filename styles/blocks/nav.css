@@ -1,0 +1,21 @@
+.nav__list{
+    padding: 0;
+    margin: 0;
+    display:flex;
+    flex-direction: column;
+    gap: 32px;
+    list-style: none;
+
+    line-height: 22px;
+    font-size: 22px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+}
+
+
+
+.nav__link {
+    text-decoration: none;
+    color: inherit;
+
+}
